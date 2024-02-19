@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="137.945 147.627 368.036 149.354" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect x="177.2504" y="57.87768" width="319.36077" height="154.51274" id="rect19"/>
+    <rect x="182.41805" y="39.790905" width="253.73162" height="159.16362" id="rect18"/>
+    <rect x="155.0295" y="56.84415" width="309.54224" height="125.5739" id="rect17"/>
+    <rect x="177.2504" y="57.87768" width="319.36077" height="154.51274" id="rect-1"/>
+    <rect x="182.41805" y="39.790905" width="253.73162" height="159.16362" id="rect-2"/>
+    <rect x="155.0295" y="56.84415" width="309.54224" height="125.5739" id="rect-3"/>
+  </defs>
+  <text id="text17" style="font-size: 46.7px; white-space: pre; display: inline; fill: rgb(0, 0, 0);"/>
+  <text id="text18" style="font-size: 46.7px; white-space: pre; display: inline; fill: rgb(0, 0, 0);"/>
+  <text id="text19" style="font-size: 46.7px; white-space: pre; display: inline; fill: rgb(0, 0, 0);"/>
+  <text style="font-style: normal; font-variant: normal; font-weight: bold; font-stretch: normal; font-size: 65.9081px; font-family: Calibri; fill: rgb(0, 0, 0); stroke-width: 1.41232; white-space: pre;" x="172.13477" y="155.92606" id="text16" transform="matrix(0.788563, 0, 0, 0.95353, 165.967377, 101.775139)"><tspan id="tspan16" x="172.13477" y="155.92606" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.9081px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:1.41232">Ortak</tspan><tspan x="172.13477" y="238.31123" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.9081px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke-width:1.41232" id="tspan20"/></text>
+  <text id="text-1" style="font-size: 46.7px; white-space: pre; display: inline; fill: rgb(0, 0, 0);"/>
+  <text id="text-2" style="font-size: 46.7px; white-space: pre; display: inline; fill: rgb(0, 0, 0);"/>
+  <text id="text-3" style="font-size: 46.7px; white-space: pre; display: inline; fill: rgb(0, 0, 0);"/>
+  <text style="font-style: normal; font-variant: normal; font-weight: bold; font-stretch: normal; font-size: 37.6617px; font-family: Calibri; fill: rgb(0, 150, 255); fill-opacity: 1; stroke-width: 1.41232; white-space: pre;" x="324.52765" y="153.90735" id="text21" transform="matrix(0.788563, 0, 0, 0.95353, 164.687256, 103.195877)"><tspan id="tspan21" x="324.52765" y="153.90735" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.6617px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#0096ff;fill-opacity:1;stroke-width:1.41232">Vizyon</tspan></text>
+  <polygon points="175.121 211.577 241.121 215.807 308.322 193.657 216.361 160.497 175.121 211.577" fill="none" stroke="#24285b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="2 10"/>
+  <polyline points="175.121 211.577 190.161 266.237 273.502 286.137 308.322 193.657" fill="none" stroke="#24285b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="2 10"/>
+  <polyline points="190.161 266.237 239.671 215.807 273.502 286.137" fill="none" stroke="#24285b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="2 10"/>
+  <circle cx="308.322" cy="193.657" r="9.99" class="target-color" style="fill: rgb(0, 150, 255);"/>
+  <circle cx="190.161" cy="266.237" r="9.99" class="target-color" style="fill: rgb(0, 150, 255);"/>
+  <line x1="239.671" y1="215.807" x2="216.361" y2="160.497" fill="none" stroke-dasharray="2 10" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="#24285b"/>
+  <circle cx="273.502" cy="286.137" r="8.18" class="target-color" style="fill: rgb(0, 150, 255);"/>
+  <circle cx="175.121" cy="211.577" r="8.18" class="target-color" style="fill: rgb(0, 150, 255);"/>
+  <circle cx="239.671" cy="215.807" r="11.52" style="fill: rgb(0, 150, 255);"/>
+  <circle cx="216.361" cy="160.497" r="9.99" class="target-color" style="fill: rgb(0, 150, 255);"/>
+</svg>
